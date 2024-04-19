@@ -1,5 +1,5 @@
 # Case 2 Grupo Boticário
-A proposta do desafio pode ser lida no arquivo "Case Engenharia de Dados - Grupo Boticário"
+A proposta do desafio pode ser lida [Aqui](https://github.com/Vipio/case-victor-piovesan/blob/main/Case%20Engenharia%20de%20Dados%20-%20Grupo%20Botic%C3%A1rio.pdf)
 
 Para solucionar esse desafio foi pensado as seguintes ferramentas:
 
