@@ -1,4 +1,4 @@
-# case-victor-piovesan
+# Case 2 Grupo Boticário
 A proposta do desafio pode ser lida no arquivo "Case Engenharia de Dados - Grupo Boticário"
 
 Para solucionar esse desafio foi pensado as seguintes ferramentas:
